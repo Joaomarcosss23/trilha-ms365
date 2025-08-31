@@ -1,0 +1,1 @@
+console.log('Trilha MS365 iniciado');
